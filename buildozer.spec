@@ -11,4 +11,4 @@ version = 1.0
 # (المكتبات المطلوبة)
 requirements = kivy, python3
 # (ملفات البيانات المضافة)
-source.include_exts = py,png,jpg,kv
+source.include_exts = sssm.py
